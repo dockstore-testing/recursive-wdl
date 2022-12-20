@@ -2,4 +2,4 @@ version: 1.2
 workflows:
   - name: recursive-wdl
     subclass: WDL
-    primaryDescriptorPath: /main.cwl
+    primaryDescriptorPath: /main.wdl
